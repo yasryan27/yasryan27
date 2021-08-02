@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasryan27
-- 👀 I’m interested in Finding cool software in githbu
+- 👀 I’m interested in finding cool software in github
 - 🌱 I’m currently Computer Building
 - 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me (you can't... yet)
